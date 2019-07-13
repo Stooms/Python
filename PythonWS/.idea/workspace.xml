@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af866fa1-f61f-4b33-83fb-21da1eb2ccd4" name="Default Changelist" comment="" />
+    <list default="true" id="af866fa1-f61f-4b33-83fb-21da1eb2ccd4" name="Default Changelist" comment="carre_magique">
+      <change beforePath="$PROJECT_DIR$/Calcul Scientifique/euclide.py" beforeDir="false" afterPath="$PROJECT_DIR$/Calcul Scientifique/euclide.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Calcul Scientifique/euclide.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            <state relative-caret-position="75">
+              <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -60,14 +62,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/Calcul Scientifique/euclide.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="575" />
-    <option name="y" value="137" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="568" />
+    <option name="y" value="84" />
     <option name="width" value="1121" />
-    <option name="height" value="1000" />
+    <option name="height" value="996" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -142,12 +145,20 @@
       <option name="presentableId" value="Default" />
       <updated>1562793373725</updated>
       <workItem from="1562795166845" duration="4187000" />
-      <workItem from="1563042525696" duration="412000" />
+      <workItem from="1563042525696" duration="927000" />
     </task>
+    <task id="LOCAL-00001" summary="Travail de calcul scientifique">
+      <created>1563043120953</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563043120954</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4599000" />
+    <option name="totallyTimeSpent" value="5114000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -159,11 +170,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="623" y="133" width="1121" height="1000" extended-state="0" />
+    <frame x="568" y="84" width="1121" height="996" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49847096" visible="true" weight="0.32059646" />
-      <window_info id="Structure" order="1" sideWeight="0.50152904" side_tool="true" weight="0.18376069" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49708962" visible="true" weight="0.32059646" />
+      <window_info id="Structure" order="1" sideWeight="0.5029104" side_tool="true" weight="0.32059646" />
+      <window_info id="Favorites" order="2" sideWeight="0.5029104" side_tool="true" weight="0.32059646" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946582" weight="0.2860262" />
@@ -213,6 +225,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Travail de calcul scientifique" />
+    <option name="LAST_COMMIT_MESSAGE" value="Travail de calcul scientifique" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -248,8 +264,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Calcul Scientifique/euclide.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        <state relative-caret-position="75">
+          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
         </state>
       </provider>
     </entry>
