@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af866fa1-f61f-4b33-83fb-21da1eb2ccd4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Calcul Scientifique/fizz_buzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calcul Scientifique/multiplication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calcul Scientifique/plus_ou_moins.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,10 +41,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Calcul Scientifique/fizz_buzz.py">
+        <entry file="file://$PROJECT_DIR$/Calcul Scientifique/plus_ou_moins.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Calcul Scientifique/fizz_buzz.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Calcul Scientifique/multiplication.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -86,6 +109,9 @@
         <option value="$PROJECT_DIR$/Calcul Scientifique/carre_magique.py" />
         <option value="$PROJECT_DIR$/Calcul Scientifique/euclide.py" />
         <option value="$PROJECT_DIR$/Calcul Scientifique/fizz_buzz.py" />
+        <option value="$PROJECT_DIR$/Calcul Scientifique/multiplication.py" />
+        <option value="$PROJECT_DIR$/plus_ou_moins.py" />
+        <option value="$PROJECT_DIR$/Calcul Scientifique/plus_ou_moins.py" />
       </list>
     </option>
   </component>
@@ -123,7 +149,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Calcul Scientifique/fizz_buzz.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Calcul Scientifique/plus_ou_moins.py" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -144,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.fizz_buzz">
+  <component name="RunManager" selected="Python.test">
     <configuration name="fizz_buzz" type="PythonConfigurationType" factoryName="Python">
       <module name="PythonWS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,7 +206,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Calcul Scientifique/euclide.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Calcul Scientifique/plus_ou_moins.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,7 +234,8 @@
       <workItem from="1563042525696" duration="927000" />
       <workItem from="1563043465947" duration="1155000" />
       <workItem from="1563457403803" duration="985000" />
-      <workItem from="1563459120078" duration="284000" />
+      <workItem from="1563459120078" duration="1440000" />
+      <workItem from="1563460574087" duration="1246000" />
     </task>
     <task id="LOCAL-00001" summary="Travail de calcul scientifique">
       <created>1563043120953</created>
@@ -224,11 +251,18 @@
       <option name="project" value="LOCAL" />
       <updated>1563043547990</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ajout du fizz buzz">
+      <created>1563459509971</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1563459509971</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7538000" />
+    <option name="totallyTimeSpent" value="9940000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -243,13 +277,13 @@
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49708962" visible="true" weight="0.1917735" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49708962" visible="true" weight="0.19391026" />
       <window_info id="Structure" order="1" sideWeight="0.5029104" side_tool="true" weight="0.32059646" />
       <window_info id="Favorites" order="2" sideWeight="0.5029104" side_tool="true" weight="0.32059646" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946582" visible="true" weight="0.2850877" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946582" weight="0.3995633" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946582" visible="true" weight="0.30701753" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946582" weight="0.3991228" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32969433" />
@@ -298,7 +332,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Travail de calcul scientifique" />
     <MESSAGE value="carre_magique" />
-    <option name="LAST_COMMIT_MESSAGE" value="carre_magique" />
+    <MESSAGE value="ajout du fizz buzz" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout du fizz buzz" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -313,8 +348,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonWS$matplot_exos_ipynb.coverage" NAME="test Coverage Results" MODIFIED="1562798734107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonWS$test.coverage" NAME="test Coverage Results" MODIFIED="1563458389774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Calcul Scientifique" />
     <SUITE FILE_PATH="coverage/PythonWS$fizz_buzz.coverage" NAME="fizz_buzz Coverage Results" MODIFIED="1563459438309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Calcul Scientifique" />
+    <SUITE FILE_PATH="coverage/PythonWS$test.coverage" NAME="test Coverage Results" MODIFIED="1563461764043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Calcul Scientifique" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Notebooks/matplotlib_debutant.ipynb">
@@ -334,10 +369,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Calcul Scientifique/syracuse.py">
+    <entry file="file://$PROJECT_DIR$/Calcul Scientifique/fizz_buzz.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        <state relative-caret-position="165">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Calcul Scientifique/multiplication.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -348,6 +390,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Calcul Scientifique/syracuse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Calcul Scientifique/carre_magique.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -355,10 +404,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Calcul Scientifique/fizz_buzz.py">
+    <entry file="file://$PROJECT_DIR$/Calcul Scientifique/plus_ou_moins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
